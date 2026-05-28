@@ -1,6 +1,7 @@
 # Dyslexia Detection System
 
 A Machine Learning-based system designed to assist in early screening and detection of dyslexia-related patterns through structured data analysis and predictive modeling.
+link: https://dyslexia-detection.streamlit.app/
 
 ---
 
